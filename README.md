@@ -11,12 +11,6 @@ Welcome! I'm Mike, a passionate Information Technology student at Mapúa Univers
 - **Location:** Makati City, Philippines 🌍
 - **Role:** BSIT Student | Full-Stack Web Development Enthusiast
 - **Education:** Bachelor of Science in Information Technology @ Mapúa University
-- **Experience:** System Integration Laboratory Projects (LE2-LE6) | Web Development | API Integration
-- **Contact:**
-  - Email: [your-email@example.com](mailto:your-email@example.com)
-  - LinkedIn: [Mike Emil Vocal](https://linkedin.com/in/yourprofile)
-  - Portfolio: [GitHub](https://github.com/DivineMike19)
-
 > "The key to success is continuous learning and collaboration."
 
 ---

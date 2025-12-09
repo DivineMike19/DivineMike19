@@ -1,6 +1,6 @@
 # Hi there, I'm Mike Emil F. Vocal (DivineMike19) 👋
 
-**Aspiring Web Developer | College Student @ Mapúa | Gaming & Anime Enthusiast**
+**Aspiring Web Developer | College Student at Mapúa | Gaming & Anime Enthusiast**
 
 Welcome! I'm Mike, a passionate Information Technology student at Mapúa University. I'm driven by a love for building web solutions, learning cutting-edge technologies, and collaborating with talented peers to create meaningful projects.
 
@@ -8,10 +8,9 @@ Welcome! I'm Mike, a passionate Information Technology student at Mapúa Univers
 
 ## About Me
 
-- **Location:** Makati City, Philippines 🌍
-- **Role:** BSIT Student | Full-Stack Web Development Enthusiast
-- **Education:** Bachelor of Science in Information Technology @ Mapúa University
-> "The key to success is continuous learning and collaboration."
+- **Location:** Makati City, Philippines 
+- **Role:** BSIT Student
+- **Education:** Bachelor of Science in Information Technology at Mapúa University
 
 ---
 
@@ -81,19 +80,5 @@ Welcome! I'm Mike, a passionate Information Technology student at Mapúa Univers
 - 🤝 Open to **collaboration** and **learning from experienced developers**
 - 📚 Sharing knowledge and helping peers through projects
 
----
-
-## 📊 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=DivineMike19&color=blue)
-
----
-
-## Connect With Me
-
-- GitHub: [@DivineMike19](https://github.com/DivineMike19)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-
----
 
 *Last updated: December 2025*
